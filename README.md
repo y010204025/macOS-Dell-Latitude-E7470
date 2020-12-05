@@ -5,9 +5,9 @@ forked from [adityabakare/macOS-Dell-Latitude-E7470](https://github.com/adityaba
 
 * Processor: Intel Core i7-6920HQ
 * Graphics: Intel HD Graphics 530
-            AMD Radeon RX 580
+* Pci-e:AMD Radeon RX 580
 * Memory: 16GB 2133MHz DDR4 SODIMM
-* Display: 17.3" FHD (2560x1440) with ELAN Touchscreen
+* Display: 17.3" FHD (1920x1080) with ELAN Touchscreen
 * Soundcard: Realtek ALC293
 * Storage: 512GB M.2 SATA SSD
 * WiFi + BT: Intel Dual Band Wireless-AC AX200
