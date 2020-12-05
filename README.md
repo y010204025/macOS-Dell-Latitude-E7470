@@ -1,14 +1,16 @@
 # Dell Latitude E7470 macOS Big Sur (OpenCore)
+forked from [adityabakare/macOS-Dell-Latitude-E7470](https://github.com/adityabakare/macOS-Dell-Latitude-E7470)
 
 ## My hardware
 
-* Processor: Intel Core i7-6600U
-* Graphics: Intel HD Graphics 520
-* Memory: 8GB 2133MHz DDR4 SODIMM
-* Display: 14" WQHD (2560x1440) with ELAN Touchscreen
+* Processor: Intel Core i7-6920HQ
+* Graphics: Intel HD Graphics 530
+            AMD Radeon RX 580
+* Memory: 16GB 2133MHz DDR4 SODIMM
+* Display: 17.3" FHD (2560x1440) with ELAN Touchscreen
 * Soundcard: Realtek ALC293
 * Storage: 512GB M.2 SATA SSD
-* WiFi + BT: Intel Dual Band Wireless-AC 8260
+* WiFi + BT: Intel Dual Band Wireless-AC AX200
 * Fingerprint Reader: No
 * Camera: 1920x1080 FHD Webcam
 * Keyboard: Backlit Keyboard
@@ -16,7 +18,7 @@
 
 ## What's Working
 
-- [x] Intel HD 520 Graphics `incuding graphics acceleration`
+- [x] Intel HD 530 Graphics `incuding graphics acceleration`
 - [x] All USB ports
 - [x] Internal camera
 - [x] WiFi using [AirportItlwm](https://github.com/OpenIntelWireless/itlwm)
@@ -40,7 +42,7 @@
 
 ## Current configuration
 
-* macOS: Big Sur 11.0.1
+* macOS: Big Sur 11.1 Beta版(20C5061b)
 * OpenCore: 0.6.3
 
 ## Update Instructions
