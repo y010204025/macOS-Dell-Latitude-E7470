@@ -1,5 +1,6 @@
 # Dell Latitude E7470 macOS Big Sur (OpenCore)
 forked from [adityabakare/macOS-Dell-Latitude-E7470](https://github.com/adityabakare/macOS-Dell-Latitude-E7470)
+由于更新文件太麻烦，需要的直接直接下载release版！
 
 ## My hardware
 
